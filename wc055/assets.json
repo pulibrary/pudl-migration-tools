@@ -1,0 +1,2909 @@
+{
+  "asset": [
+    {
+      "componentID": "WC055_c0001",
+      "objid": "ark:/88435/g158bj01c",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000001/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0002",
+      "objid": "ark:/88435/z029p544c",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000001/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0003",
+      "objid": "ark:/88435/t722h9525",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000001/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0004",
+      "objid": "ark:/88435/kp78gh09x",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000001/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0005",
+      "objid": "ark:/88435/2r36tz252",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000001/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0006",
+      "objid": "ark:/88435/b8515p10n",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000001/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0007",
+      "objid": "ark:/88435/6h440t18z",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000001/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0008",
+      "objid": "ark:/88435/9c67wn54w",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000003/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0009",
+      "objid": "ark:/88435/np193989t",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000003/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0010",
+      "objid": "ark:/88435/hx11xf96s",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000003/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0011",
+      "objid": "ark:/88435/f4752h45t",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000003/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0012",
+      "objid": "ark:/88435/x633f1761",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000003/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0013",
+      "objid": "ark:/88435/5q47rp450",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000003/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0014",
+      "objid": "ark:/88435/1z40kt55r",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000003/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0015",
+      "objid": "ark:/88435/sf2685820",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000003/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0016",
+      "objid": "ark:/88435/js956g530",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000005/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0017",
+      "objid": "ark:/88435/1r66j184r",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000005/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0018",
+      "objid": "ark:/88435/x059c8043",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000005/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0019",
+      "objid": "ark:/88435/pg15bf61k",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000005/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0020",
+      "objid": "ark:/88435/5h73pw77x",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000005/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0021",
+      "objid": "ark:/88435/f1881m62n",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000005/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0022",
+      "objid": "ark:/88435/9880vr703",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000005/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0023",
+      "objid": "ark:/88435/8g84mm97v",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000007/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0024",
+      "objid": "ark:/88435/v692t6928",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000007/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0025",
+      "objid": "ark:/88435/qf85nc004",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000007/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0026",
+      "objid": "ark:/88435/d504rm05c",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000007/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0027",
+      "objid": "ark:/88435/rf55z841w",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000007/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0028",
+      "objid": "ark:/88435/4q77fs066",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000007/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0029",
+      "objid": "ark:/88435/0z708x15g",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000007/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0030",
+      "objid": "ark:/88435/c821gk50x",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000007/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0031",
+      "objid": "ark:/88435/mp48sd48q",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000007/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0032",
+      "objid": "ark:/88435/w6634434s",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000007/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0033",
+      "objid": "ark:/88435/gx41mj570",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000007/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0034",
+      "objid": "ark:/88435/7h149q59q",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000007/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0035",
+      "objid": "ark:/88435/000000733",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000007/m/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0036",
+      "objid": "ark:/88435/3r074v67n",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000007/n/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0037",
+      "objid": "ark:/88435/sj139266n",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000009/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0038",
+      "objid": "ark:/88435/rn301209j",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000009/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0039",
+      "objid": "ark:/88435/mw22v618m",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000009/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0040",
+      "objid": "ark:/88435/x920fx56c",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000009/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0041",
+      "objid": "ark:/88435/8k71nh814",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000009/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0042",
+      "objid": "ark:/88435/nv9353563",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000009/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0043",
+      "objid": "ark:/88435/j38607667",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000009/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0044",
+      "objid": "ark:/88435/w9505118f",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000009/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0045",
+      "objid": "ark:/88435/4t64gn89f",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000009/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0046",
+      "objid": "ark:/88435/db78tc74t",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000009/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0047",
+      "objid": "ark:/88435/12579s97m",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000009/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0048",
+      "objid": "ark:/88435/qn59q471q",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000011/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0049",
+      "objid": "ark:/88435/pn89d731f",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000011/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0050",
+      "objid": "ark:/88435/jw827c384",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000011/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0051",
+      "objid": "ark:/88435/vd66w061t",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000011/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0052",
+      "objid": "ark:/88435/6m311q01r",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000011/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0053",
+      "objid": "ark:/88435/kw52j878d",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000011/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0054",
+      "objid": "ark:/88435/g445cd853",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000011/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0055",
+      "objid": "ark:/88435/td96k323h",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000011/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0056",
+      "objid": "ark:/88435/2v23vv10t",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000011/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0057",
+      "objid": "ark:/88435/bc386j92j",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000011/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0058",
+      "objid": "ark:/88435/z603qz14w",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000011/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0059",
+      "objid": "ark:/88435/vq27zp135",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000013/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0060",
+      "objid": "ark:/88435/r207tq06g",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000013/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0061",
+      "objid": "ark:/88435/m900nv15r",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000013/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0062",
+      "objid": "ark:/88435/0g354f92x",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000013/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0063",
+      "objid": "ark:/88435/3f462616q",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000015/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0064",
+      "objid": "ark:/88435/zp38wd34k",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000015/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0065",
+      "objid": "ark:/88435/tx31qj41w",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000015/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0066",
+      "objid": "ark:/88435/76537206t",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000015/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0067",
+      "objid": "ark:/88435/7s75dd099",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000017/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0068",
+      "objid": "ark:/88435/qr46r152x",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000017/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0069",
+      "objid": "ark:/88435/m039k5622",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000017/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0070",
+      "objid": "ark:/88435/cj82k800h",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000017/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0071",
+      "objid": "ark:/88435/vh53ww44m",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000017/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0072",
+      "objid": "ark:/88435/41687j17g",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000017/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0073",
+      "objid": "ark:/88435/08612p24s",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000017/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0074",
+      "objid": "ark:/88435/4j03d036q",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000019/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0075",
+      "objid": "ark:/88435/0r967444g",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000019/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0076",
+      "objid": "ark:/88435/w0892b65c",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000019/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0077",
+      "objid": "ark:/88435/8910jv29w",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000019/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0078",
+      "objid": "ark:/88435/kd17ct57c",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000021/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0079",
+      "objid": "ark:/88435/dr26xz11x",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000021/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0080",
+      "objid": "ark:/88435/9019s319v",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000021/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0081",
+      "objid": "ark:/88435/q524jp48z",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000021/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0082",
+      "objid": "ark:/88435/2f75r8746",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000021/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0083",
+      "objid": "ark:/88435/fq977v50w",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000021/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0084",
+      "objid": "ark:/88435/9z903059x",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000021/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0085",
+      "objid": "ark:/88435/p5547s108",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000021/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0086",
+      "objid": "ark:/88435/xp68kg93w",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000021/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0087",
+      "objid": "ark:/88435/6682x467r",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000021/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0088",
+      "objid": "ark:/88435/sx61dn01m",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000021/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0089",
+      "objid": "ark:/88435/jh343t01c",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000021/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0090",
+      "objid": "ark:/88435/cc08hg337",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000023/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0091",
+      "objid": "ark:/88435/3t945r495",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000023/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0092",
+      "objid": "ark:/88435/02870w599",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000023/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0093",
+      "objid": "ark:/88435/h415pb26s",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000023/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0094",
+      "objid": "ark:/88435/7m01bm40j",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000023/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0095",
+      "objid": "ark:/88435/nk322f05z",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000025/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0096",
+      "objid": "ark:/88435/ht24wk141",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000025/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0097",
+      "objid": "ark:/88435/d217qq226",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000025/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0098",
+      "objid": "ark:/88435/s7526d13c",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000025/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0099",
+      "objid": "ark:/88435/1g05fc324",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000027/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0100",
+      "objid": "ark:/88435/8049g577p",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000027/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0101",
+      "objid": "ark:/88435/474299840",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000027/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0102",
+      "objid": "ark:/88435/5712m725p",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000027/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0103",
+      "objid": "ark:/88435/n870zr53w",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000027/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0104",
+      "objid": "ark:/88435/wp988k524",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000027/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0105",
+      "objid": "ark:/88435/rx913q61d",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000027/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0106",
+      "objid": "ark:/88435/cr56n170m",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000027/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0107",
+      "objid": "ark:/88435/hh63sw629",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000027/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0108",
+      "objid": "ark:/88435/mc87pq960",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000029/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0109",
+      "objid": "ark:/88435/gm80hw056",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000029/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0110",
+      "objid": "ark:/88435/bz60cw97v",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000029/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0111",
+      "objid": "ark:/88435/r494vk89j",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000029/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0112",
+      "objid": "ark:/88435/bk128b61z",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000031/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0113",
+      "objid": "ark:/88435/5t34sk285",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000031/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0114",
+      "objid": "ark:/88435/2227mq36b",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000031/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0115",
+      "objid": "ark:/88435/gb19f652p",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000031/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0116",
+      "objid": "ark:/88435/th83m004q",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000031/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0117",
+      "objid": "ark:/88435/6t053g698",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000031/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0118",
+      "objid": "ark:/88435/3197xm76f",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000031/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0119",
+      "objid": "ark:/88435/fb494913w",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000031/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0120",
+      "objid": "ark:/88435/pr76f4134",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000031/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0121",
+      "objid": "ark:/88435/z890rt96g",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000031/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0122",
+      "objid": "ark:/88435/k3569504g",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000031/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0123",
+      "objid": "ark:/88435/9k41zf21b",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000031/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0124",
+      "objid": "ark:/88435/jm214p853",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000033/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0125",
+      "objid": "ark:/88435/0p096763f",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000033/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0126",
+      "objid": "ark:/88435/vx021f820",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000033/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0127",
+      "objid": "ark:/88435/pc289j78s",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000033/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0128",
+      "objid": "ark:/88435/1n79h501h",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000033/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0129",
+      "objid": "ark:/88435/dv13zt926",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000033/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0130",
+      "objid": "ark:/88435/9306t0015",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000033/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0131",
+      "objid": "ark:/88435/hm50ts45g",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000033/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0132",
+      "objid": "ark:/88435/ww72bc23h",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000033/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0133",
+      "objid": "ark:/88435/5999n411w",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000033/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0134",
+      "objid": "ark:/88435/s4655h31p",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000033/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0135",
+      "objid": "ark:/88435/cv43nx54w",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000033/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0136",
+      "objid": "ark:/88435/4f16c3541",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000033/m/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0137",
+      "objid": "ark:/88435/8623hz457",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000033/n/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0138",
+      "objid": "ark:/88435/nc580n38h",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000033/o/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0139",
+      "objid": "ark:/88435/mk61rh66w",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000035/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0140",
+      "objid": "ark:/88435/xw42n861t",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000035/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0141",
+      "objid": "ark:/88435/t435gd70g",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000035/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0142",
+      "objid": "ark:/88435/rb68xc57m",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000035/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0143",
+      "objid": "ark:/88435/3j333296h",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000035/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0144",
+      "objid": "ark:/88435/gt54kn74t",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000035/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0145",
+      "objid": "ark:/88435/c247ds81h",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000035/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0146",
+      "objid": "ark:/88435/kk91fm26m",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000035/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0147",
+      "objid": "ark:/88435/zs25x9187",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000035/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0148",
+      "objid": "ark:/88435/79407x886",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000035/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0149",
+      "objid": "ark:/88435/v405sb09k",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000035/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0150",
+      "objid": "ark:/88435/ft848r332",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000035/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0151",
+      "objid": "ark:/88435/6969z149k",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000035/m/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0152",
+      "objid": "ark:/88435/b2773w40r",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000035/n/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0153",
+      "objid": "ark:/88435/qb98mg18t",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000035/o/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0154",
+      "objid": "ark:/88435/2j62s558v",
+      "tiff": "pudl/pudl0017/wc055/1139550/001/00000035/p/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0155",
+      "objid": "ark:/88435/zw12z6011",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000001/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0156",
+      "objid": "ark:/88435/6d56zx33g",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000001/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0157",
+      "objid": "ark:/88435/2n49t241s",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000001/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0158",
+      "objid": "ark:/88435/3n203z81w",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000001/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0159",
+      "objid": "ark:/88435/kp78gh101",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000001/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0160",
+      "objid": "ark:/88435/v405sb10p",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000001/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0161",
+      "objid": "ark:/88435/qf85nc01m",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000001/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0162",
+      "objid": "ark:/88435/b5644s26c",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000001/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0163",
+      "objid": "ark:/88435/fx719n186",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000001/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0164",
+      "objid": "ark:/88435/js956g54g",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000003/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0165",
+      "objid": "ark:/88435/nk322f06f",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000003/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0166",
+      "objid": "ark:/88435/hx11xf978",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000003/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0167",
+      "objid": "ark:/88435/pk02cb457",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000003/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0168",
+      "objid": "ark:/88435/1v53jx70m",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000003/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0169",
+      "objid": "ark:/88435/f4752h469",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000003/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0170",
+      "objid": "ark:/88435/9c67wn55c",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000003/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0171",
+      "objid": "ark:/88435/sb3978977",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000003/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0172",
+      "objid": "ark:/88435/x346d4899",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000003/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0173",
+      "objid": "ark:/88435/5m60qs635",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000003/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0174",
+      "objid": "ark:/88435/q524jp49f",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000005/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0175",
+      "objid": "ark:/88435/hd76s078d",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000005/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0176",
+      "objid": "ark:/88435/cn69m485v",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000005/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0177",
+      "objid": "ark:/88435/tt44pn583",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000005/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0178",
+      "objid": "ark:/88435/sx61dn023",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000005/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0179",
+      "objid": "ark:/88435/kd17ct58v",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000005/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0180",
+      "objid": "ark:/88435/6395w7814",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000005/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0181",
+      "objid": "ark:/88435/8w32r633v",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000005/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0182",
+      "objid": "ark:/88435/p5547s11r",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000005/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0183",
+      "objid": "ark:/88435/2b88qc89f",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000005/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0184",
+      "objid": "ark:/88435/jd472x192",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000005/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0185",
+      "objid": "ark:/88435/5425kb411",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000005/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0186",
+      "objid": "ark:/88435/wp988k53m",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000005/m/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0187",
+      "objid": "ark:/88435/1c18dg50f",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000005/n/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0188",
+      "objid": "ark:/88435/dn39x226j",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000005/o/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0189",
+      "objid": "ark:/88435/rx913q62w",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000005/p/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0190",
+      "objid": "ark:/88435/n583xv70q",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000005/q/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0191",
+      "objid": "ark:/88435/9w032374z",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000005/r/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0192",
+      "objid": "ark:/88435/xk81jm10h",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000005/s/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0193",
+      "objid": "ark:/88435/fn106z66n",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000005/t/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0194",
+      "objid": "ark:/88435/8c97kr14m",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000007/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0195",
+      "objid": "ark:/88435/c534fp66n",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000007/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0196",
+      "objid": "ark:/88435/7d278t74k",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000007/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0197",
+      "objid": "ark:/88435/d504rm06v",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000007/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0198",
+      "objid": "ark:/88435/rb68xc583",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000007/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0199",
+      "objid": "ark:/88435/4m90dw22d",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000007/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0200",
+      "objid": "ark:/88435/0v838129m",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000007/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0201",
+      "objid": "ark:/88435/gx41mj58g",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000007/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0202",
+      "objid": "ark:/88435/mp48sd496",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000007/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0203",
+      "objid": "ark:/88435/w37637491",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000007/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0204",
+      "objid": "ark:/88435/j6731449d",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000009/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0205",
+      "objid": "ark:/88435/3x816n33f",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000009/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0206",
+      "objid": "ark:/88435/05741s41m",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000009/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0207",
+      "objid": "ark:/88435/nv935357k",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000009/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0208",
+      "objid": "ark:/88435/1544bp81w",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000009/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0209",
+      "objid": "ark:/88435/df65v858g",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000009/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0210",
+      "objid": "ark:/88435/8p58pd66d",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000009/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0211",
+      "objid": "ark:/88435/n009w301s",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000009/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0212",
+      "objid": "ark:/88435/wd375x010",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000009/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0213",
+      "objid": "ark:/88435/4x51hj746",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000009/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0214",
+      "objid": "ark:/88435/rn301210n",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000009/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0215",
+      "objid": "ark:/88435/h702q7102",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000009/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0216",
+      "objid": "ark:/88435/7p88ch264",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000009/m/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0217",
+      "objid": "ark:/88435/cf95jc186",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000009/n/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0218",
+      "objid": "ark:/88435/ks65hc938",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000011/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0219",
+      "objid": "ark:/88435/z316q2313",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000011/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0220",
+      "objid": "ark:/88435/tb09j638x",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000011/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0221",
+      "objid": "ark:/88435/qj72p786t",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000011/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0222",
+      "objid": "ark:/88435/6m311q027",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000011/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0223",
+      "objid": "ark:/88435/g158bj02v",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000011/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0224",
+      "objid": "ark:/88435/bc386j931",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000011/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0225",
+      "objid": "ark:/88435/2v23vv119",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000011/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0226",
+      "objid": "ark:/88435/8049g5785",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000013/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0227",
+      "objid": "ark:/88435/37720d46p",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000013/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0228",
+      "objid": "ark:/88435/zk51vh50s",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000013/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0229",
+      "objid": "ark:/88435/cr56n1713",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000013/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0230",
+      "objid": "ark:/88435/r207tq08f",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000013/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0231",
+      "objid": "ark:/88435/47429985g",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000013/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0232",
+      "objid": "ark:/88435/0g354f94w",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000013/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0233",
+      "objid": "ark:/88435/br86b430b",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000013/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0234",
+      "objid": "ark:/88435/m900nv167",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000013/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0235",
+      "objid": "ark:/88435/vt150j996",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000013/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0236",
+      "objid": "ark:/88435/gh93h024c",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000013/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0237",
+      "objid": "ark:/88435/70795837d",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000013/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0238",
+      "objid": "ark:/88435/mp48sd509",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000015/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0239",
+      "objid": "ark:/88435/v692t693r",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000015/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0240",
+      "objid": "ark:/88435/qf85nc023",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000015/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0241",
+      "objid": "ark:/88435/rf55z842c",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000015/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0242",
+      "objid": "ark:/88435/7h149q60t",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000015/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0243",
+      "objid": "ark:/88435/h128nf43m",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000015/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0244",
+      "objid": "ark:/88435/c821gk52w",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000015/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0245",
+      "objid": "ark:/88435/00000074k",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000015/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0246",
+      "objid": "ark:/88435/3r074v684",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000015/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0247",
+      "objid": "ark:/88435/8s45q949k",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000017/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0248",
+      "objid": "ark:/88435/m326m244r",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000017/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0249",
+      "objid": "ark:/88435/gb19f6535",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000017/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0250",
+      "objid": "ark:/88435/dj52w540s",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000017/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0251",
+      "objid": "ark:/88435/rv042t78s",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000017/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0252",
+      "objid": "ark:/88435/5138jf587",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000017/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0253",
+      "objid": "ark:/88435/1c18dg49b",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000017/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0254",
+      "objid": "ark:/88435/7w62f893n",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000017/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0255",
+      "objid": "ark:/88435/n296wz85z",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000017/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0256",
+      "objid": "ark:/88435/wm117p70g",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000017/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0257",
+      "objid": "ark:/88435/h989r392s",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000017/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0258",
+      "objid": "ark:/88435/44558f027",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000017/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0259",
+      "objid": "ark:/88435/vm40xs30v",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000017/m/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0260",
+      "objid": "ark:/88435/0c483k11n",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000017/n/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0261",
+      "objid": "ark:/88435/cj82k8010",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000017/o/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0262",
+      "objid": "ark:/88435/qv33rx37p",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000017/p/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0263",
+      "objid": "ark:/88435/9k41zf22t",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000019/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0264",
+      "objid": "ark:/88435/nv9353582",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000019/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0265",
+      "objid": "ark:/88435/j3860767q",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000019/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0266",
+      "objid": "ark:/88435/fb494914c",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000019/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0267",
+      "objid": "ark:/88435/x920fx58b",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000019/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0268",
+      "objid": "ark:/88435/5t34sk29n",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000019/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0269",
+      "objid": "ark:/88435/2227mq37t",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000019/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0270",
+      "objid": "ark:/88435/sn009z49f",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000019/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0271",
+      "objid": "ark:/88435/0p096764x",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000021/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0272",
+      "objid": "ark:/88435/tx31qj42c",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000021/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0273",
+      "objid": "ark:/88435/q524jp50j",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000021/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0274",
+      "objid": "ark:/88435/4f16c3560",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000021/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0275",
+      "objid": "ark:/88435/gq67jr905",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000021/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0276",
+      "objid": "ark:/88435/vx021f83g",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000021/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0277",
+      "objid": "ark:/88435/r494vk90n",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000021/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0278",
+      "objid": "ark:/88435/3f4626176",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000021/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0279",
+      "objid": "ark:/88435/bz60cw99t",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000021/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0280",
+      "objid": "ark:/88435/mc87pq98z",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000021/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0281",
+      "objid": "ark:/88435/76537208s",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000021/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0282",
+      "objid": "ark:/88435/zp38wd352",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000021/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0283",
+      "objid": "ark:/88435/qr46r153d",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000023/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0284",
+      "objid": "ark:/88435/pr76f414m",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000023/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0285",
+      "objid": "ark:/88435/k0698822s",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000023/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0286",
+      "objid": "ark:/88435/vd66w0629",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000023/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0287",
+      "objid": "ark:/88435/6q182k863",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000023/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0288",
+      "objid": "ark:/88435/m039k563j",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000023/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0289",
+      "objid": "ark:/88435/g732d971b",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000023/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0290",
+      "objid": "ark:/88435/th83m0056",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000023/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0291",
+      "objid": "ark:/88435/2z10wq94j",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000023/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0292",
+      "objid": "ark:/88435/bg257f79n",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000023/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0293",
+      "objid": "ark:/88435/z603qz15c",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000023/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0294",
+      "objid": "ark:/88435/h989r3938",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000025/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0295",
+      "objid": "ark:/88435/pv63g097v",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000025/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0296",
+      "objid": "ark:/88435/k3569506f",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000025/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0297",
+      "objid": "ark:/88435/n009w3028",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000025/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0298",
+      "objid": "ark:/88435/08612p258",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000025/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0299",
+      "objid": "ark:/88435/cj82k802g",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000025/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0300",
+      "objid": "ark:/88435/7s75dd10d",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000025/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0301",
+      "objid": "ark:/88435/gb19f654n",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000025/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0302",
+      "objid": "ark:/88435/vh53ww453",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000025/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0303",
+      "objid": "ark:/88435/41687j18z",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000025/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0304",
+      "objid": "ark:/88435/qr46r154w",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000025/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0305",
+      "objid": "ark:/88435/bk128b62f",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000025/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0306",
+      "objid": "ark:/88435/3197xm77x",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000025/m/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0307",
+      "objid": "ark:/88435/6t053g70c",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000025/n/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0308",
+      "objid": "ark:/88435/m326m2457",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000025/o/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0309",
+      "objid": "ark:/88435/z890rt97z",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000025/p/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0310",
+      "objid": "ark:/88435/th83m006p",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000025/q/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0311",
+      "objid": "ark:/88435/fq977v52v",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000027/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0312",
+      "objid": "ark:/88435/n870zr55v",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000027/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0313",
+      "objid": "ark:/88435/hh63sw63s",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000027/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0314",
+      "objid": "ark:/88435/kh04dq43m",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000027/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0315",
+      "objid": "ark:/88435/xp68kg94c",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000027/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0316",
+      "objid": "ark:/88435/9z9030601",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000027/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0317",
+      "objid": "ark:/88435/6682x4687",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000027/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0318",
+      "objid": "ark:/88435/dr26xz12d",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000027/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0319",
+      "objid": "ark:/88435/sx61dn03k",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000027/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0320",
+      "objid": "ark:/88435/2f75r875p",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000027/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0321",
+      "objid": "ark:/88435/p8418n940",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000027/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0322",
+      "objid": "ark:/88435/9019s320z",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000027/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0323",
+      "objid": "ark:/88435/1g05fc33m",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000027/m/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0324",
+      "objid": "ark:/88435/5712m7265",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000027/n/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0325",
+      "objid": "ark:/88435/jh343t03b",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000027/o/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0326",
+      "objid": "ark:/88435/wp988k543",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000027/p/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0327",
+      "objid": "ark:/88435/s1784m46x",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000027/q/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0328",
+      "objid": "ark:/88435/f4752h47s",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000029/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0329",
+      "objid": "ark:/88435/0z708x16z",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000029/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0330",
+      "objid": "ark:/88435/w66344358",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000029/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0331",
+      "objid": "ark:/88435/jw827c39m",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000029/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0332",
+      "objid": "ark:/88435/x633f177h",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000029/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0333",
+      "objid": "ark:/88435/9g54xj38j",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000029/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0334",
+      "objid": "ark:/88435/5q47rp47z",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000029/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0335",
+      "objid": "ark:/88435/hx11xf98r",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000029/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0336",
+      "objid": "ark:/88435/sf268583g",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000029/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0337",
+      "objid": "ark:/88435/1z40kt57q",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000029/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0338",
+      "objid": "ark:/88435/np193990x",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000029/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0339",
+      "objid": "ark:/88435/d791sg901",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000029/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0340",
+      "objid": "ark:/88435/4q77fs085",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000029/m/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0341",
+      "objid": "ark:/88435/8g84mm99t",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000029/n/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0342",
+      "objid": "ark:/88435/6w924c54v",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000031/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0343",
+      "objid": "ark:/88435/xd07gt40s",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000031/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0344",
+      "objid": "ark:/88435/sn009z48z",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000031/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0345",
+      "objid": "ark:/88435/bn999745k",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000031/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0346",
+      "objid": "ark:/88435/pv63g096c",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000031/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0347",
+      "objid": "ark:/88435/3484zh635",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000031/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0348",
+      "objid": "ark:/88435/zc77sq82v",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000031/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0349",
+      "objid": "ark:/88435/9p290b06z",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000031/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0350",
+      "objid": "ark:/88435/k3569505z",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000031/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0351",
+      "objid": "ark:/88435/tm70mv89j",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000031/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0352",
+      "objid": "ark:/88435/ff365597m",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000031/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0353",
+      "objid": "ark:/88435/5x21tg14d",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000031/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0354",
+      "objid": "ark:/88435/2514nm213",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000031/m/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0355",
+      "objid": "ark:/88435/vd66w063s",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000033/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0356",
+      "objid": "ark:/88435/td96k3240",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000033/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0357",
+      "objid": "ark:/88435/pn89d732x",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000033/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0358",
+      "objid": "ark:/88435/05741s423",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000033/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0359",
+      "objid": "ark:/88435/bc386j94h",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000033/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0360",
+      "objid": "ark:/88435/qn59q4726",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000033/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0361",
+      "objid": "ark:/88435/kw52j879w",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000033/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0362",
+      "objid": "ark:/88435/z603qz16v",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000033/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0363",
+      "objid": "ark:/88435/6m311q03q",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000033/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0364",
+      "objid": "ark:/88435/g445cd86k",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000033/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0365",
+      "objid": "ark:/88435/2z10wq951",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000033/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0366",
+      "objid": "ark:/88435/8k71nh82m",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000035/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0367",
+      "objid": "ark:/88435/7m01bm42h",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000035/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0368",
+      "objid": "ark:/88435/3t945r51r",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000035/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0369",
+      "objid": "ark:/88435/db78tc759",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000035/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0370",
+      "objid": "ark:/88435/rn3012114",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000035/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0371",
+      "objid": "ark:/88435/4t64gn90j",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000035/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0372",
+      "objid": "ark:/88435/12579s99k",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000035/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0373",
+      "objid": "ark:/88435/cc08hg34q",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000035/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0374",
+      "objid": "ark:/88435/mw22v6193",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000035/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0375",
+      "objid": "ark:/88435/wd375x02g",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000035/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0376",
+      "objid": "ark:/88435/h415pb278",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000035/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0377",
+      "objid": "ark:/88435/br86b4297",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000037/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0378",
+      "objid": "ark:/88435/p2676w260",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000037/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0379",
+      "objid": "ark:/88435/j9602133p",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000037/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0380",
+      "objid": "ark:/88435/gh93h023w",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000037/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0381",
+      "objid": "ark:/88435/tt44pn57m",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000037/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0382",
+      "objid": "ark:/88435/70795836x",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000037/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0383",
+      "objid": "ark:/88435/37720d44q",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000037/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0384",
+      "objid": "ark:/88435/9s161688q",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000037/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0385",
+      "objid": "ark:/88435/q237hs668",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000037/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0386",
+      "objid": "ark:/88435/zg64tm651",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000037/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0387",
+      "objid": "ark:/88435/k930bx742",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000037/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0388",
+      "objid": "ark:/88435/6108vb971",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000037/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0389",
+      "objid": "ark:/88435/xk81jm09d",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000037/m/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0390",
+      "objid": "ark:/88435/2801ph067",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000037/n/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0391",
+      "objid": "ark:/88435/fj236281w",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000037/o/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0392",
+      "objid": "ark:/88435/st74cr18t",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000037/p/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0393",
+      "objid": "ark:/88435/44558f03q",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000039/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0394",
+      "objid": "ark:/88435/ff3655983",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000039/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0395",
+      "objid": "ark:/88435/9s1616896",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000039/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0396",
+      "objid": "ark:/88435/7w62f8944",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000039/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0397",
+      "objid": "ark:/88435/m613mz30m",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000039/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0398",
+      "objid": "ark:/88435/0g354f93d",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000039/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0399",
+      "objid": "ark:/88435/vq27zp14n",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000039/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0400",
+      "objid": "ark:/88435/37720d456",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000039/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0401",
+      "objid": "ark:/88435/gf06g337t",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000039/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0402",
+      "objid": "ark:/88435/qz20st22f",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000039/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0403",
+      "objid": "ark:/88435/bn9997462",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000039/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0404",
+      "objid": "ark:/88435/zg64tm66h",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000039/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0405",
+      "objid": "ark:/88435/pz50gw827",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000039/m/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0406",
+      "objid": "ark:/88435/tq57nr74f",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000039/n/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0407",
+      "objid": "ark:/88435/6w924c55b",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000039/o/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0408",
+      "objid": "ark:/88435/k643b189p",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000039/p/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0409",
+      "objid": "ark:/88435/g158bj03b",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000041/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0410",
+      "objid": "ark:/88435/pk02cb46q",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000041/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0411",
+      "objid": "ark:/88435/js956g55z",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000041/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0412",
+      "objid": "ark:/88435/ks65hc94r",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000041/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0413",
+      "objid": "ark:/88435/2r36tz26j",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000041/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0414",
+      "objid": "ark:/88435/b8515p114",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000041/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0415",
+      "objid": "ark:/88435/6h440t19f",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000041/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0416",
+      "objid": "ark:/88435/t722h9544",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000041/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0417",
+      "objid": "ark:/88435/z029p545v",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000041/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0418",
+      "objid": "ark:/88435/mk61rh67c",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000043/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0419",
+      "objid": "ark:/88435/ft848r34j",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000043/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0420",
+      "objid": "ark:/88435/b2773w42q",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000043/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0421",
+      "objid": "ark:/88435/rb68xc59k",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000043/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0422",
+      "objid": "ark:/88435/3j333298g",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000043/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0423",
+      "objid": "ark:/88435/gt54kn759",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000043/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0424",
+      "objid": "ark:/88435/c247ds820",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000043/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0425",
+      "objid": "ark:/88435/qb98mg199",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000043/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0426",
+      "objid": "ark:/88435/zw12z602h",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000043/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0427",
+      "objid": "ark:/88435/79407x89p",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000043/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0428",
+      "objid": "ark:/88435/v405sb115",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000043/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0429",
+      "objid": "ark:/88435/kk91fm273",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000043/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0430",
+      "objid": "ark:/88435/ng451j22s",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000045/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0431",
+      "objid": "ark:/88435/gq67jr892",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000045/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0432",
+      "objid": "ark:/88435/bz60cw98b",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000045/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0433",
+      "objid": "ark:/88435/s7526d14v",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000045/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0434",
+      "objid": "ark:/88435/4f16c355h",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000045/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0435",
+      "objid": "ark:/88435/hq37vp30c",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000045/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0436",
+      "objid": "ark:/88435/cz30pt372",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000045/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0437",
+      "objid": "ark:/88435/r781wg749",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000045/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0438",
+      "objid": "ark:/88435/0r967445z",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000045/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0439",
+      "objid": "ark:/88435/8623hz46q",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000045/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0440",
+      "objid": "ark:/88435/w0892b66v",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000045/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0441",
+      "objid": "ark:/88435/mg74qm827",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000045/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0442",
+      "objid": "ark:/88435/hm50ts46z",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000047/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0443",
+      "objid": "ark:/88435/3b5919290",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000047/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0444",
+      "objid": "ark:/88435/zk51vh49p",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000047/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0445",
+      "objid": "ark:/88435/n870zr54c",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000047/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0446",
+      "objid": "ark:/88435/0k225b78j",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000047/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0447",
+      "objid": "ark:/88435/cv43nx55c",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000047/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0448",
+      "objid": "ark:/88435/8336h263x",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000047/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0449",
+      "objid": "ark:/88435/mc87pq97g",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000047/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0450",
+      "objid": "ark:/88435/vt150j98q",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000047/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0451",
+      "objid": "ark:/88435/4b29b671v",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000047/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0452",
+      "objid": "ark:/88435/r207tq07z",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000047/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0453",
+      "objid": "ark:/88435/gm80hw06p",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000047/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0454",
+      "objid": "ark:/88435/73666523n",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000047/m/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0455",
+      "objid": "ark:/88435/bv73c115g",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000047/n/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0456",
+      "objid": "ark:/88435/0c483k124",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000049/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0457",
+      "objid": "ark:/88435/k643b190s",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000049/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0458",
+      "objid": "ark:/88435/ff365599k",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000049/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0459",
+      "objid": "ark:/88435/44558f046",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000049/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0460",
+      "objid": "ark:/88435/gf06g3389",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000049/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0461",
+      "objid": "ark:/88435/vm40xs31b",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000049/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0462",
+      "objid": "ark:/88435/qv33rx385",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000049/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0463",
+      "objid": "ark:/88435/3484zh64n",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000049/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0464",
+      "objid": "ark:/88435/bn999747j",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000049/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0465",
+      "objid": "ark:/88435/m326m246q",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000049/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0466",
+      "objid": "ark:/88435/6w924c56t",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000049/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0467",
+      "objid": "ark:/88435/zc77sq83b",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000049/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0468",
+      "objid": "ark:/88435/pv63g098b",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000049/m/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0469",
+      "objid": "ark:/88435/tm70mv90n",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000049/n/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0470",
+      "objid": "ark:/88435/2n49t2428",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000051/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0471",
+      "objid": "ark:/88435/cz30pt38j",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000051/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0472",
+      "objid": "ark:/88435/8623hz476",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000051/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0473",
+      "objid": "ark:/88435/6969z1515",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000051/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0474",
+      "objid": "ark:/88435/jm214p86k",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000051/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0475",
+      "objid": "ark:/88435/xw42n863s",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000051/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0476",
+      "objid": "ark:/88435/t435gd71z",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000051/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0477",
+      "objid": "ark:/88435/1n79h503g",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000051/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0478",
+      "objid": "ark:/88435/dv13zt945",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000051/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0479",
+      "objid": "ark:/88435/pc289j798",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000051/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0480",
+      "objid": "ark:/88435/9306t0034",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000051/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0481",
+      "objid": "ark:/88435/ww72bc240",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000051/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0482",
+      "objid": "ark:/88435/nc580n390",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000051/m/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0483",
+      "objid": "ark:/88435/s4655h325",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000051/n/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0484",
+      "objid": "ark:/88435/5d86p0944",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000051/o/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0485",
+      "objid": "ark:/88435/hm50ts47f",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000051/p/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0486",
+      "objid": "ark:/88435/2801ph07q",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000053/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0487",
+      "objid": "ark:/88435/wh246s866",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000053/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0488",
+      "objid": "ark:/88435/rr171x93n",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000053/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0489",
+      "objid": "ark:/88435/6108vb98h",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000053/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0490",
+      "objid": "ark:/88435/j6731450h",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000053/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0491",
+      "objid": "ark:/88435/xg94hq27q",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000053/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0492",
+      "objid": "ark:/88435/sq87bv345",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000053/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0493",
+      "objid": "ark:/88435/5138jf59q",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000053/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0494",
+      "objid": "ark:/88435/dj52w5418",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000053/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0495",
+      "objid": "ark:/88435/nz806041v",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000053/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0496",
+      "objid": "ark:/88435/8s45q950p",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000053/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0497",
+      "objid": "ark:/88435/1831ck67h",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000053/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0498",
+      "objid": "ark:/88435/t722h953n",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000055/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0499",
+      "objid": "ark:/88435/1n79h5020",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000055/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0500",
+      "objid": "ark:/88435/x059c805k",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000055/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0501",
+      "objid": "ark:/88435/xw42n8629",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000055/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0502",
+      "objid": "ark:/88435/dz010q785",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000055/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0503",
+      "objid": "ark:/88435/pg15bf622",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000055/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0504",
+      "objid": "ark:/88435/jq085k700",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000055/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0505",
+      "objid": "ark:/88435/5d86p093n",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000055/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0506",
+      "objid": "ark:/88435/9593tv85b",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000055/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0507",
+      "objid": "ark:/88435/3j3332970",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000057/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0508",
+      "objid": "ark:/88435/ws859g38r",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000057/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0509",
+      "objid": "ark:/88435/s1784m45f",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000057/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0510",
+      "objid": "ark:/88435/765372079",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000057/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0511",
+      "objid": "ark:/88435/6969z150p",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000057/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0512",
+      "objid": "ark:/88435/zs25x919q",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000057/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0513",
+      "objid": "ark:/88435/kh04dq424",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000057/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0514",
+      "objid": "ark:/88435/p8418n93h",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000057/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0515",
+      "objid": "ark:/88435/2j62s559b",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000057/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0516",
+      "objid": "ark:/88435/fq977v51c",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000057/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0517",
+      "objid": "ark:/88435/xs55mc79h",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000057/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0518",
+      "objid": "ark:/88435/jh343t02v",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000057/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0519",
+      "objid": "ark:/88435/9306t002n",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000057/m/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0520",
+      "objid": "ark:/88435/dv13zt93p",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000057/n/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0521",
+      "objid": "ark:/88435/t148fh866",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000057/o/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0522",
+      "objid": "ark:/88435/5999n412c",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000057/p/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0523",
+      "objid": "ark:/88435/1j92g8205",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000057/q/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0524",
+      "objid": "ark:/88435/q811kk35p",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000057/r/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0525",
+      "objid": "ark:/88435/b2773w417",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000057/s/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0526",
+      "objid": "ark:/88435/v118rf27w",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000057/t/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0527",
+      "objid": "ark:/88435/5q47rp46g",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0528",
+      "objid": "ark:/88435/02870w60d",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0529",
+      "objid": "ark:/88435/v979v380m",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0530",
+      "objid": "ark:/88435/f7623d30k",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0531",
+      "objid": "ark:/88435/8g84mm98b",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0532",
+      "objid": "ark:/88435/1z40kt567",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0533",
+      "objid": "ark:/88435/ns0646752",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0534",
+      "objid": "ark:/88435/rj430527v",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0535",
+      "objid": "ark:/88435/4q77fs07p",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0536",
+      "objid": "ark:/88435/j098zb827",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0537",
+      "objid": "ark:/88435/12579s983",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0538",
+      "objid": "ark:/88435/ms35t935f",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0539",
+      "objid": "ark:/88435/c821gk51d",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/m/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0540",
+      "objid": "ark:/88435/h128nf424",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/n/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0541",
+      "objid": "ark:/88435/w9505119x",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/o/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0542",
+      "objid": "ark:/88435/7m01bm411",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/p/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0543",
+      "objid": "ark:/88435/3t945r508",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/q/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0544",
+      "objid": "ark:/88435/sj1392674",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/r/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0545",
+      "objid": "ark:/88435/d791sg89x",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/s/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0546",
+      "objid": "ark:/88435/x920fx57v",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/t/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0547",
+      "objid": "ark:/88435/9g54xj372",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000059/u/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0548",
+      "objid": "ark:/88435/k930bx75j",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0549",
+      "objid": "ark:/88435/cn69m486b",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0550",
+      "objid": "ark:/88435/7w62f895m",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0551",
+      "objid": "ark:/88435/tt44pn59k",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0552",
+      "objid": "ark:/88435/p2676w27g",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0553",
+      "objid": "ark:/88435/fj236282c",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0554",
+      "objid": "ark:/88435/2b88qc90j",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0555",
+      "objid": "ark:/88435/5425kb42h",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0556",
+      "objid": "ark:/88435/j96021345",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0557",
+      "objid": "ark:/88435/xk81jm110",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0558",
+      "objid": "ark:/88435/dj52w542r",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0559",
+      "objid": "ark:/88435/1c18dg51x",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0560",
+      "objid": "ark:/88435/rv042t798",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/m/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0561",
+      "objid": "ark:/88435/wm117p71z",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/n/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0562",
+      "objid": "ark:/88435/8s45q9515",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/o/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0563",
+      "objid": "ark:/88435/n296wz86f",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/p/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0564",
+      "objid": "ark:/88435/h989r394r",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/q/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0565",
+      "objid": "ark:/88435/6108vb990",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/r/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0566",
+      "objid": "ark:/88435/st74cr199",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/s/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0567",
+      "objid": "ark:/88435/9s1616909",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/t/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0568",
+      "objid": "ark:/88435/q237hs67r",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000061/u/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0569",
+      "objid": "ark:/88435/9880vr71k",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000063/a/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0570",
+      "objid": "ark:/88435/0r967446f",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000063/b/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0571",
+      "objid": "ark:/88435/w37637504",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000063/c/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0572",
+      "objid": "ark:/88435/f1881m634",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000063/d/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0573",
+      "objid": "ark:/88435/sb397898q",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000063/e/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0574",
+      "objid": "ark:/88435/5h73pw78d",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000063/f/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0575",
+      "objid": "ark:/88435/1r66j1857",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000063/g/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0576",
+      "objid": "ark:/88435/d217qq23p",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000063/h/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0577",
+      "objid": "ark:/88435/nk322f07x",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000063/i/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0578",
+      "objid": "ark:/88435/x059c8062",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000063/j/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0579",
+      "objid": "ark:/88435/ht24wk15h",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000063/k/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0580",
+      "objid": "ark:/88435/8910jv300",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000063/l/00000001.tif"
+    },
+    {
+      "componentID": "WC055_c0581",
+      "objid": "ark:/88435/4j03d0376",
+      "tiff": "pudl/pudl0017/wc055/1139550/002/00000063/m/00000001.tif"
+    }
+  ]
+}
