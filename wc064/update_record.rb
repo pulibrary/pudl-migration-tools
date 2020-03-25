@@ -9,9 +9,9 @@ def update_record(c_id, ark)
   db = Valkyrie::MetadataAdapter.find(:indexing_persister)
   disk = Valkyrie::StorageAdapter.find(:disk)
   csp = ChangeSetPersister.new(metadata_adapter: db, storage_adapter: disk)
-  resource = db.query_service.custom_queries.find_by_property(property: :identifier, value: ark)
+  resource = db.query_service.custom_queries.find_by_property(property: :identifier, value: ark).first
   cs = DynamicChangeSet.new(resource)
-  cs.validate(source_metadata_identifier: [c_id])
+  cs.validate(source_metadata_identifier: c_id)
 #  cs.validate(archival_collection_code: c_code) # don't need to do this done by the persister
   cs.sync
   csp.save(change_set: cs)
