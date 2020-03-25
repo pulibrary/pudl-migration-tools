@@ -1,0 +1,165 @@
+* Migrating WC064
+  This collection differs from WC054 and WC055 in that many images
+  from WC064 have already been ingested into Figgy.  These should,
+  probably, not be deleted and replaced but updated.
+
+  5,341 of the 5,572 item-level containers in the EAD have <dao>
+  elements linking to arks:
+
+  #+begin_src xquery
+	count(//dao[matches(@xlink:href, "^http://arks\.princeton\.edu/(ark:.*?)$")])
+  #+end_src
+
+  That ark points to a resource in the PUDL; e.g.,
+
+  http://arks.princeton.edu/ark:/88435/g732d972t resolves to
+  http://pudl.princeton.edu/objects/g732d972t
+
+  There are 5,341 resources in Figgy that show up from a query for WC064
+
+
+  Parallels and correspondences:
+
+  - <unitid type='accessionnumber'> is (one of) the resource's
+    local_identifier members.  So one can retrieve the corresponding
+    object this way:
+
+    #+begin_src ruby
+      qs = Valkyrie::MetadataAdapter.find(:indexing_persister).query_service
+      resources = qs.custom_queries.find_by_property(property: :local_identifier, value: "WA 1998:221")
+    #+end_src
+
+  Note that in completed objects:
+
+  - the source_metadata attribute is a list that contains the =ead:c=
+    element
+  - the archival_collection_code is set (e.g., =MC016=).
+
+** Plan
+   Leave the 5,341 already-ingested objects alone; that is, filter out
+   the EAD containers that have a <dao> (377 of them).
+
+   *revised plan* as per Esmé, /do/ attend to those 5,341
+    already-ingested objects, and those only.  That entails:
+    - updating the identifier attribute with the proper ark, if it
+      isn't already correct;
+    - switching from the ingested metadata to linking to the finding aid:
+      - remove existing metadata? I say no; /replaces/ should do that.
+      - put the component ID (e.g., =WC064_c36=) into
+        source_metadata_identifier (unlike the WC054 and WC055, where
+        this came as the =OBJID= of the METS file, supplied in the
+        =BIB= env variable)
+    - put the pudl collection & bib number into the REPLACES env
+      variable (e.g., =pudl0017/WC064_c36=)
+
+    The images are already ingested, so no =DIR=
+    - COLL=the collection id
+    - BIB= componentID
+    - REPLACES= "pudl0017/" + componentID
+** more data
+
+   None of the daos fail to match a METS
+
+
+   #+begin_src xquery
+
+     declare function local:verify-dao($dao)
+     {
+      let $ark := substring-after(xs:string($dao/@xlink:href), "http://arks.princeton.edu/")
+      let $mets := collection('/db/WA/wc064')//mets:mets[@OBJID=$ark]
+       return boolean($mets)
+     };
+
+     let $hits := collection('/db/WA')//ead:dao[not(local:verify-dao(.))]
+     return count($hits)
+
+   #+end_src
+
+** solution
+   Generate tuple set with <ark, c_id>
+
+   #+begin_src ruby
+     #!/usr/bin/env ruby
+
+     ENV['RAILS_ENV'] = 'production'
+     ENV['HONEYBADGER_API_KEY'] = ''
+     require '/opt/figgy/current/config/environment'
+
+     db = Valkyrie::MetadataAdapter.find(:indexing_persister)
+     disk = Valkyrie::StorageAdapter.find(:disk)
+     csp = ChangeSetPersister.new(metadata_adapter: db, storage_adapter: disk)
+     resource = db.query_service.custom_queries.find_by_property(property: :identifier, value: "ark:/88435/bg257f80r")
+     mvw = db.query_service.find_by(id: '106ebf0c-8ff5-42ee-90ab-8cdc0fa2499f')
+     cs = DynamicChangeSet.new(resource)
+     cs.validate(source_metadata_identifier: ['WC064_c36']
+     cs.validate(archival_collection_code: "WC064")
+     cs.sync
+     csp.save(change_set: cs)
+
+
+   #+end_src
+
+
+   then set source_metadata_identifier to the container id
+   source_metadata_identifier = ['WC064_c36']
+   archival_collection_code = "WC064"
+
+   #+begin_src ruby
+     cs.validate(identifier: "ark:/88435/asdf1234")
+   #+end_src
+
+
+   qs.custom_queries.find_by_property(property: :identifier, value: "ark:/884")
+* debugging bulk ingest
+
+  It looks like the problem is in bulk_ingest_service.rb, when it creates a new change set and validates it
+  with the **attributes.  In find_or_create_by(?) the deserializer does not include identifier as one of the 
+  representable attributes
+
+  ingest_service.attach_dir
+
+
+DIR=/Users/cwulfman/repos/github/pulibrary/figgy/spec/fixtures/ingest_WA/pudl/pudl0017/wc064/H/H0001 BIB=WC064_c1 OBJID=ark:/88435/m039k5139 COLL=b66e8e5c-8dca-4ce0-a3eb-e10dd24e509c FILTER=.tif MODEL=ScannedResource bundle exec rake bulk:ingest
+
+
+37:   representable_map!(doc, propagated_options, format, :uncompile_fragment)
+
+
+/Users/cwulfman/repos/github/pulibrary/figgy/app/services/bulk_ingest_service.rb @ line 103 BulkIngestService#new_resource:
+
+     96: def new_resource(klass:, **attributes)
+     97:   collection = attributes.delete(:collection)
+     98:
+     99:   resource = klass.new
+    100:
+    101:   change_set = change_set_class.new(resource)
+    102:   return unless change_set.validate(**attributes)
+ => 103:   change_set.member_of_collection_ids = [collection.id] if collection.try(:id)
+    104:
+    105:   persisted = change_set_persister.save(change_set: change_set)
+    106:   logger.info "Created the resource #{persisted.id}"
+    107:   persisted
+108: end
+
+
+resource = find_or_create_by(property: property, value: file_name, **attributes)
+
+
+Note that the deserializer does NOT include identifier as one of the representable attributes
+
+what is a Representable::Hash::Binding?
+
+The problem seems to happen in change_set.validate; the deserializer doesn't include identifier
+
+I think the problem happens in the bulk ingest service's find_or_create_by() method in attach_dir().  This seems like the place where the identifier property
+ought to be added to the resource, but it is not.
+
+
+
+Why, in the ScannedResourceChangeSet, are these the values in _changes?
+@_changes={"source_metadata_identifier"=>true, "local_identifier"=>true, "member_of_collection_ids"=>true, "replaces"=>false},
+
+
+Look at =scanned_resource_change_set.rb=.  It defines lots of
+properties, but identifier is not one of them; find out what
+changesets do with these properties.
