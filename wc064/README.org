@@ -76,7 +76,7 @@
    #+end_src
 
 ** solution
-   Generate tuple set with <ark, c_id>
+   Generate tuple set with <ark, c_id>; delete already-ingested resources and re-ingest
 
    #+begin_src ruby
      #!/usr/bin/env ruby
@@ -95,8 +95,6 @@
      cs.validate(archival_collection_code: "WC064")
      cs.sync
      csp.save(change_set: cs)
-
-
    #+end_src
 
 
@@ -107,59 +105,3 @@
    #+begin_src ruby
      cs.validate(identifier: "ark:/88435/asdf1234")
    #+end_src
-
-
-   qs.custom_queries.find_by_property(property: :identifier, value: "ark:/884")
-* debugging bulk ingest
-
-  It looks like the problem is in bulk_ingest_service.rb, when it creates a new change set and validates it
-  with the **attributes.  In find_or_create_by(?) the deserializer does not include identifier as one of the 
-  representable attributes
-
-  ingest_service.attach_dir
-
-
-DIR=/Users/cwulfman/repos/github/pulibrary/figgy/spec/fixtures/ingest_WA/pudl/pudl0017/wc064/H/H0001 BIB=WC064_c1 OBJID=ark:/88435/m039k5139 COLL=b66e8e5c-8dca-4ce0-a3eb-e10dd24e509c FILTER=.tif MODEL=ScannedResource bundle exec rake bulk:ingest
-
-
-37:   representable_map!(doc, propagated_options, format, :uncompile_fragment)
-
-
-/Users/cwulfman/repos/github/pulibrary/figgy/app/services/bulk_ingest_service.rb @ line 103 BulkIngestService#new_resource:
-
-     96: def new_resource(klass:, **attributes)
-     97:   collection = attributes.delete(:collection)
-     98:
-     99:   resource = klass.new
-    100:
-    101:   change_set = change_set_class.new(resource)
-    102:   return unless change_set.validate(**attributes)
- => 103:   change_set.member_of_collection_ids = [collection.id] if collection.try(:id)
-    104:
-    105:   persisted = change_set_persister.save(change_set: change_set)
-    106:   logger.info "Created the resource #{persisted.id}"
-    107:   persisted
-108: end
-
-
-resource = find_or_create_by(property: property, value: file_name, **attributes)
-
-
-Note that the deserializer does NOT include identifier as one of the representable attributes
-
-what is a Representable::Hash::Binding?
-
-The problem seems to happen in change_set.validate; the deserializer doesn't include identifier
-
-I think the problem happens in the bulk ingest service's find_or_create_by() method in attach_dir().  This seems like the place where the identifier property
-ought to be added to the resource, but it is not.
-
-
-
-Why, in the ScannedResourceChangeSet, are these the values in _changes?
-@_changes={"source_metadata_identifier"=>true, "local_identifier"=>true, "member_of_collection_ids"=>true, "replaces"=>false},
-
-
-Look at =scanned_resource_change_set.rb=.  It defines lots of
-properties, but identifier is not one of them; find out what
-changesets do with these properties.
